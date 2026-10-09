@@ -1,0 +1,16 @@
+بطاقة طبقات الصوت — اللقطة 1
+==============================================
+  حوار (Dialogue)                    ملف الممثل — يُستبدل بالصوت الحقيقي
+  wind — ريح                         طبقة محيطية
+  engine_hum — هَمهمة المحرك         طبقة ميكانيكية
+  turbine_whine — أزيز المروحة       طبقة ميكانيكية
+  wheel_rumble — دمدمة العجلات       طبقة ميكانيكية
+  steam_hiss — فحيح البخار           طبقة ميكانيكية
+  ❌ موسيقى                           محظورة بسياسة المسلسل
+
+الملفات المستقلة (Stems) في مجلد stems/ :
+  stem_wind.wav
+  stem_engine_hum.wav
+  stem_turbine_whine.wav
+  stem_wheel_rumble.wav
+  stem_steam_hiss.wav

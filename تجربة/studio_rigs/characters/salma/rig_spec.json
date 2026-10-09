@@ -1,0 +1,174 @@
+{
+  "display_name": "سلمى",
+  "root_bone": "pelvis",
+  "bones": [
+    {
+      "id": "pelvis",
+      "parent": null,
+      "part": null,
+      "pivot": [
+        0,
+        0
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "leg_back",
+      "parent": "pelvis",
+      "part": "part_leg",
+      "pivot": [
+        45,
+        20
+      ],
+      "offset": [
+        -24,
+        6
+      ],
+      "depth": "back"
+    },
+    {
+      "id": "arm_back",
+      "parent": "torso",
+      "part": "part_arm",
+      "pivot": [
+        45,
+        24
+      ],
+      "offset": [
+        -46,
+        -92
+      ],
+      "depth": "back"
+    },
+    {
+      "id": "torso",
+      "parent": "pelvis",
+      "part": "part_torso",
+      "pivot": [
+        120,
+        175
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "mid"
+    },
+    {
+      "id": "neck",
+      "parent": "torso",
+      "part": null,
+      "pivot": [
+        0,
+        0
+      ],
+      "offset": [
+        0,
+        -127
+      ]
+    },
+    {
+      "id": "head",
+      "parent": "neck",
+      "part": "part_head_base",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "front"
+    },
+    {
+      "id": "eyes",
+      "parent": "head",
+      "part": "part_eyes_open",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "face",
+      "swappable": "eyes"
+    },
+    {
+      "id": "brows",
+      "parent": "head",
+      "part": "part_eyebrows",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "face"
+    },
+    {
+      "id": "mouth",
+      "parent": "head",
+      "part": "part_mouth_closed_smile",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "face",
+      "swappable": "mouth"
+    },
+    {
+      "id": "leg_front",
+      "parent": "pelvis",
+      "part": "part_leg",
+      "pivot": [
+        45,
+        20
+      ],
+      "offset": [
+        24,
+        6
+      ],
+      "depth": "front"
+    },
+    {
+      "id": "arm_front",
+      "parent": "torso",
+      "part": "part_arm",
+      "pivot": [
+        45,
+        24
+      ],
+      "offset": [
+        46,
+        -92
+      ],
+      "depth": "front"
+    }
+  ],
+  "swaps": {
+    "eyes": {
+      "open": "part_eyes_open",
+      "blink": "part_eyes_blink"
+    },
+    "mouth": {
+      "closed": "part_mouth_closed_smile",
+      "A": "part_mouth_open_A",
+      "O": "part_mouth_open_O",
+      "E": "part_mouth_open_E",
+      "frown": "part_mouth_frown"
+    }
+  },
+  "default_scale": 1.0
+}

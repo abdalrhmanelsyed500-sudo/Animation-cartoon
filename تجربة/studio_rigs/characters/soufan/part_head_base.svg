@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="220" viewBox="0 0 240 220">
+        <ellipse cx="48" cy="126" rx="24" ry="11" transform="rotate(-18 48 126)" fill="#DBA97C" stroke="#231915" stroke-width="4.2"/>
+        <ellipse cx="192" cy="126" rx="24" ry="11" transform="rotate(18 192 126)" fill="#DBA97C" stroke="#231915" stroke-width="4.2"/>
+        
+    <path d="M 186.0 98.0 Q 197.2 115.6 175.5 124.0 Q 172.3 144.8 147.4 141.7 Q 131.3 158.9 110.6 145.5 Q 86.4 155.1 76.8 134.3 Q 53.6 130.9 56.7 111.5 Q 38.9 98.0 56.7 84.5 Q 53.5 65.0 76.8 61.7 Q 86.5 41.1 110.6 50.5 Q 131.4 36.8 147.4 54.3 Q 172.1 51.5 175.5 72.0 Q 197.5 80.3 186.0 98.0 Z" fill="#F7F2E7" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+    <path d="M 63.9 105.2 Q 120.0 143.6 176.1 105.2 Q 156.3 149.8 120.0 149.8 Q 83.7 149.8 63.9 105.2 Z" fill="#DDD2BD" opacity="0.85"/>
+    <path d="M 90.3 90.8 Q 106.8 100.4 116.7 92.2" fill="none" stroke="#DDD2BD" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 129.9 107.6 Q 145.1 114.8 154.3 105.2" fill="none" stroke="#DDD2BD" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 186.0 98.0 Q 197.2 115.6 175.5 124.0 Q 172.3 144.8 147.4 141.7 Q 131.3 158.9 110.6 145.5 Q 86.4 155.1 76.8 134.3 Q 53.6 130.9 56.7 111.5 Q 38.9 98.0 56.7 84.5 Q 53.5 65.0 76.8 61.7 Q 86.5 41.1 110.6 50.5 Q 131.4 36.8 147.4 54.3 Q 172.1 51.5 175.5 72.0 Q 197.5 80.3 186.0 98.0 Z" fill="none" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+    
+        <ellipse cx="124" cy="126" rx="54" ry="48" fill="#DBA97C" stroke="#231915" stroke-width="4.5"/>
+        <path d="M 72 136 Q 124 182 176 136 Q 160 174 124 174 Q 88 174 72 136 Z" fill="#BE8A5E" opacity="0.55"/>
+        
+    <path d="M 160.0 170.0 Q 165.3 181.6 147.2 183.3 Q 135.6 195.6 118.4 186.6 Q 99.2 190.3 95.4 177.4 Q 82.2 170.0 95.4 162.6 Q 99.4 150.0 118.4 153.4 Q 135.8 143.6 147.2 156.7 Q 164.5 158.9 160.0 170.0 Z" fill="#FFFFFF" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+    <path d="M 97.1 172.6 Q 126.0 186.2 154.9 172.6 Q 144.7 188.4 126.0 188.4 Q 107.3 188.4 97.1 172.6 Z" fill="#E0E6ED" opacity="0.85"/>
+    <path d="M 110.7 167.4 Q 119.2 170.8 124.3 168.0" fill="none" stroke="#E0E6ED" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 131.1 173.4 Q 138.9 175.9 143.7 172.6" fill="none" stroke="#E0E6ED" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 160.0 170.0 Q 165.3 181.6 147.2 183.3 Q 135.6 195.6 118.4 186.6 Q 99.2 190.3 95.4 177.4 Q 82.2 170.0 95.4 162.6 Q 99.4 150.0 118.4 153.4 Q 135.8 143.6 147.2 156.7 Q 164.5 158.9 160.0 170.0 Z" fill="none" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+    
+        <!-- Conductor Cap -->
+        <path d="M 60 76 Q 120 26 180 76 Z" fill="#1F3447" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 54 76 Q 128 86 190 78 Q 160 94 58 84 Z" fill="#12202E" stroke="#231915" stroke-width="4"/>
+        <line x1="62" y1="73" x2="178" y2="73" stroke="#E0A846" stroke-width="5"/>
+        <circle cx="124" cy="56" r="11" fill="#E0A846" stroke="#231915" stroke-width="3"/>
+        <circle cx="124" cy="56" r="5" fill="#1F3447"/>
+        </svg>

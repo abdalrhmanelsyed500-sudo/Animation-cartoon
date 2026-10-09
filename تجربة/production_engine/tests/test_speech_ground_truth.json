@@ -1,0 +1,60 @@
+{
+  "total_duration": 2.99,
+  "segments": [
+    {
+      "vowel": "A",
+      "start": 0.0,
+      "end": 0.34
+    },
+    {
+      "vowel": "closed",
+      "start": 0.34,
+      "end": 0.5
+    },
+    {
+      "vowel": "O",
+      "start": 0.5,
+      "end": 0.86
+    },
+    {
+      "vowel": "closed",
+      "start": 0.86,
+      "end": 1.04
+    },
+    {
+      "vowel": "E",
+      "start": 1.04,
+      "end": 1.38
+    },
+    {
+      "vowel": "closed",
+      "start": 1.38,
+      "end": 1.54
+    },
+    {
+      "vowel": "A",
+      "start": 1.54,
+      "end": 1.84
+    },
+    {
+      "vowel": "O",
+      "start": 1.84,
+      "end": 2.14
+    },
+    {
+      "vowel": "closed",
+      "start": 2.14,
+      "end": 2.39
+    },
+    {
+      "vowel": "E",
+      "start": 2.39,
+      "end": 2.79
+    },
+    {
+      "vowel": "closed",
+      "start": 2.79,
+      "end": 2.99
+    }
+  ]
+}

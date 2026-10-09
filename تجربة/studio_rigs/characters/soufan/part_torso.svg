@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="220" viewBox="0 0 240 220">
+    <path d="M 198.0 115.0 Q 211.7 135.0 190.3 147.1 Q 193.0 170.8 168.6 172.9 Q 160.4 195.2 137.4 187.1 Q 120.0 205.4 102.6 187.1 Q 79.9 194.6 71.4 172.9 Q 45.9 171.6 49.7 147.1 Q 29.9 134.7 42.0 115.0 Q 28.2 94.9 49.7 82.9 Q 47.0 59.3 71.4 57.1 Q 79.6 34.7 102.6 42.9 Q 120.0 24.6 137.4 42.9 Q 160.1 35.4 168.6 57.1 Q 194.1 58.4 190.3 82.9 Q 210.1 95.3 198.0 115.0 Z" fill="#F7F2E7" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+    <path d="M 53.7 126.1 Q 120.0 185.3 186.3 126.1 Q 162.9 194.9 120.0 194.9 Q 77.1 194.9 53.7 126.1 Z" fill="#DDD2BD" opacity="0.85"/>
+    <path d="M 84.9 103.9 Q 104.4 118.7 116.1 106.1" fill="none" stroke="#DDD2BD" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 131.7 129.8 Q 149.6 140.9 160.6 126.1" fill="none" stroke="#DDD2BD" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 198.0 115.0 Q 211.7 135.0 190.3 147.1 Q 193.0 170.8 168.6 172.9 Q 160.4 195.2 137.4 187.1 Q 120.0 205.4 102.6 187.1 Q 79.9 194.6 71.4 172.9 Q 45.9 171.6 49.7 147.1 Q 29.9 134.7 42.0 115.0 Q 28.2 94.9 49.7 82.9 Q 47.0 59.3 71.4 57.1 Q 79.6 34.7 102.6 42.9 Q 120.0 24.6 137.4 42.9 Q 160.1 35.4 168.6 57.1 Q 194.1 58.4 190.3 82.9 Q 210.1 95.3 198.0 115.0 Z" fill="none" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+    
+        <!-- Petrol Utility Vest -->
+        <path d="M 48 52 L 94 52 L 98 176 L 42 170 Q 34 115 48 52 Z" fill="#24586B" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+        <path d="M 146 52 L 192 52 Q 206 115 198 170 L 142 176 Z" fill="#24586B" stroke="#231915" stroke-width="4.5" stroke-linejoin="round"/>
+        <rect x="52" y="118" width="32" height="32" rx="6" fill="#183D4B" stroke="#231915" stroke-width="3.5"/>
+        <rect x="156" y="118" width="32" height="32" rx="6" fill="#183D4B" stroke="#231915" stroke-width="3.5"/>
+        <!-- Brass Wrench in Pocket -->
+        <path d="M 168 118 L 176 92" stroke="#E0A846" stroke-width="7" stroke-linecap="round"/>
+        <circle cx="178" cy="88" r="8" fill="none" stroke="#E0A846" stroke-width="4"/>
+        </svg>

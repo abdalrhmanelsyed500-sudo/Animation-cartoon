@@ -1,0 +1,217 @@
+{
+  "display_name": "سمسم (الجرو)",
+  "root_bone": "pelvis",
+  "bones": [
+    {
+      "id": "pelvis",
+      "parent": null,
+      "part": null,
+      "pivot": [
+        0,
+        0
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "tail",
+      "parent": "torso",
+      "part": "part_tail",
+      "pivot": [
+        70,
+        78
+      ],
+      "offset": [
+        62,
+        -30
+      ],
+      "depth": "back"
+    },
+    {
+      "id": "ear_back",
+      "parent": "head",
+      "part": "part_ear",
+      "pivot": [
+        35,
+        18
+      ],
+      "offset": [
+        -72,
+        -140
+      ],
+      "depth": "back"
+    },
+    {
+      "id": "leg_back",
+      "parent": "pelvis",
+      "part": "part_leg",
+      "pivot": [
+        45,
+        20
+      ],
+      "offset": [
+        -24,
+        6
+      ],
+      "depth": "back"
+    },
+    {
+      "id": "arm_back",
+      "parent": "torso",
+      "part": "part_arm",
+      "pivot": [
+        45,
+        24
+      ],
+      "offset": [
+        -44,
+        -88
+      ],
+      "depth": "back"
+    },
+    {
+      "id": "torso",
+      "parent": "pelvis",
+      "part": "part_torso",
+      "pivot": [
+        120,
+        175
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "mid"
+    },
+    {
+      "id": "neck",
+      "parent": "torso",
+      "part": null,
+      "pivot": [
+        0,
+        0
+      ],
+      "offset": [
+        0,
+        -127
+      ]
+    },
+    {
+      "id": "head",
+      "parent": "neck",
+      "part": "part_head_base",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "front"
+    },
+    {
+      "id": "eyes",
+      "parent": "head",
+      "part": "part_eyes_open",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "face",
+      "swappable": "eyes"
+    },
+    {
+      "id": "brows",
+      "parent": "head",
+      "part": "part_eyebrows",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "face"
+    },
+    {
+      "id": "mouth",
+      "parent": "head",
+      "part": "part_mouth_closed_smile",
+      "pivot": [
+        120,
+        172
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "depth": "face",
+      "swappable": "mouth"
+    },
+    {
+      "id": "ear_front",
+      "parent": "head",
+      "part": "part_ear",
+      "pivot": [
+        35,
+        18
+      ],
+      "offset": [
+        58,
+        -146
+      ],
+      "depth": "front"
+    },
+    {
+      "id": "leg_front",
+      "parent": "pelvis",
+      "part": "part_leg",
+      "pivot": [
+        45,
+        20
+      ],
+      "offset": [
+        24,
+        6
+      ],
+      "depth": "front"
+    },
+    {
+      "id": "arm_front",
+      "parent": "torso",
+      "part": "part_arm",
+      "pivot": [
+        45,
+        24
+      ],
+      "offset": [
+        44,
+        -88
+      ],
+      "depth": "front"
+    }
+  ],
+  "swaps": {
+    "eyes": {
+      "open": "part_eyes_open",
+      "blink": "part_eyes_blink"
+    },
+    "mouth": {
+      "closed": "part_mouth_closed_smile",
+      "A": "part_mouth_open_A",
+      "O": "part_mouth_open_O",
+      "E": "part_mouth_open_E",
+      "frown": "part_mouth_frown"
+    }
+  },
+  "default_scale": 0.9,
+  "note": "سمسم: ذيل وأذنان بمفاصل مستقلة + حركة رباعية الأطراج => تمييز حركي تام عن الخراف"
+}
