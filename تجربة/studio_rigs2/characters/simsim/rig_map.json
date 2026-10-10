@@ -1,0 +1,599 @@
+{
+ "parts": {
+  "torso": {
+   "file": "torso.png",
+   "pivot_png": [
+    80.0,
+    177.6
+   ],
+   "size": [
+    160.0,
+    213.0
+   ],
+   "bbox_design": [
+    -80.0,
+    192.0,
+    80.0,
+    405.0
+   ]
+  },
+  "head": {
+   "file": "head.png",
+   "pivot_png": [
+    91.0,
+    150.69
+   ],
+   "size": [
+    182.0,
+    150.0
+   ],
+   "bbox_design": [
+    -91.0,
+    54.0,
+    91.0,
+    204.0
+   ]
+  },
+  "upperarm_front": {
+   "file": "upperarm_front.png",
+   "pivot_png": [
+    29.04,
+    11.86
+   ],
+   "size": [
+    63.0,
+    125.0
+   ],
+   "bbox_design": [
+    18.0,
+    216.0,
+    81.0,
+    341.0
+   ]
+  },
+  "upperarm_back": {
+   "file": "upperarm_back.png",
+   "pivot_png": [
+    36.96,
+    15.86
+   ],
+   "size": [
+    66.0,
+    131.0
+   ],
+   "bbox_design": [
+    -84.0,
+    212.0,
+    -18.0,
+    343.0
+   ]
+  },
+  "forearm_front": {
+   "file": "forearm_front.png",
+   "pivot_png": [
+    31.45,
+    12.14
+   ],
+   "size": [
+    73.0,
+    156.0
+   ],
+   "bbox_design": [
+    25.0,
+    320.0,
+    98.0,
+    476.0
+   ]
+  },
+  "forearm_back": {
+   "file": "forearm_back.png",
+   "pivot_png": [
+    41.55,
+    13.14
+   ],
+   "size": [
+    73.0,
+    157.0
+   ],
+   "bbox_design": [
+    -98.0,
+    319.0,
+    -25.0,
+    476.0
+   ]
+  },
+  "thigh_front": {
+   "file": "thigh_front.png",
+   "pivot_png": [
+    36.29,
+    13.6
+   ],
+   "size": [
+    74.0,
+    109.0
+   ],
+   "bbox_design": [
+    0.0,
+    356.0,
+    74.0,
+    465.0
+   ]
+  },
+  "thigh_back": {
+   "file": "thigh_back.png",
+   "pivot_png": [
+    38.71,
+    16.6
+   ],
+   "size": [
+    76.0,
+    113.0
+   ],
+   "bbox_design": [
+    -75.0,
+    353.0,
+    1.0,
+    466.0
+   ]
+  },
+  "shin_front": {
+   "file": "shin_front.png",
+   "pivot_png": [
+    34.13,
+    13.5
+   ],
+   "size": [
+    87.0,
+    133.0
+   ],
+   "bbox_design": [
+    7.0,
+    442.0,
+    94.0,
+    575.0
+   ]
+  },
+  "shin_back": {
+   "file": "shin_back.png",
+   "pivot_png": [
+    52.87,
+    13.5
+   ],
+   "size": [
+    87.0,
+    133.0
+   ],
+   "bbox_design": [
+    -94.0,
+    442.0,
+    -7.0,
+    575.0
+   ]
+  },
+  "eyes_open": {
+   "file": "eyes_open.png",
+   "pivot_png": [
+    58.0,
+    107.69
+   ],
+   "size": [
+    116.0,
+    50.0
+   ],
+   "bbox_design": [
+    -58.0,
+    97.0,
+    58.0,
+    147.0
+   ]
+  },
+  "eyes_blink": {
+   "file": "eyes_blink.png",
+   "pivot_png": [
+    59.0,
+    93.69
+   ],
+   "size": [
+    118.0,
+    27.0
+   ],
+   "bbox_design": [
+    -59.0,
+    111.0,
+    59.0,
+    138.0
+   ]
+  },
+  "brows": {
+   "file": "brows.png",
+   "pivot_png": [
+    64.0,
+    116.69
+   ],
+   "size": [
+    128.0,
+    27.0
+   ],
+   "bbox_design": [
+    -64.0,
+    88.0,
+    64.0,
+    115.0
+   ]
+  },
+  "mouth_closed": {
+   "file": "mouth_closed.png",
+   "pivot_png": [
+    24.0,
+    34.69
+   ],
+   "size": [
+    48.0,
+    25.0
+   ],
+   "bbox_design": [
+    -24.0,
+    170.0,
+    24.0,
+    195.0
+   ]
+  },
+  "mouth_A": {
+   "file": "mouth_A.png",
+   "pivot_png": [
+    28.0,
+    37.69
+   ],
+   "size": [
+    56.0,
+    46.0
+   ],
+   "bbox_design": [
+    -28.0,
+    167.0,
+    28.0,
+    213.0
+   ]
+  },
+  "mouth_O": {
+   "file": "mouth_O.png",
+   "pivot_png": [
+    20.0,
+    37.69
+   ],
+   "size": [
+    40.0,
+    39.0
+   ],
+   "bbox_design": [
+    -20.0,
+    167.0,
+    20.0,
+    206.0
+   ]
+  },
+  "mouth_E": {
+   "file": "mouth_E.png",
+   "pivot_png": [
+    33.0,
+    35.69
+   ],
+   "size": [
+    66.0,
+    34.0
+   ],
+   "bbox_design": [
+    -33.0,
+    169.0,
+    33.0,
+    203.0
+   ]
+  },
+  "mouth_frown": {
+   "file": "mouth_frown.png",
+   "pivot_png": [
+    24.0,
+    33.69
+   ],
+   "size": [
+    48.0,
+    26.0
+   ],
+   "bbox_design": [
+    -24.0,
+    171.0,
+    24.0,
+    197.0
+   ]
+  },
+  "ear_front": {
+   "file": "ear_front.png",
+   "pivot_png": [
+    28.82,
+    16.89
+   ],
+   "size": [
+    66.0,
+    123.0
+   ],
+   "bbox_design": [
+    33.0,
+    87.0,
+    99.0,
+    210.0
+   ]
+  },
+  "ear_back": {
+   "file": "ear_back.png",
+   "pivot_png": [
+    37.18,
+    16.89
+   ],
+   "size": [
+    67.0,
+    118.0
+   ],
+   "bbox_design": [
+    -99.0,
+    87.0,
+    -32.0,
+    205.0
+   ]
+  },
+  "tail": {
+   "file": "tail.png",
+   "pivot_png": [
+    86.76,
+    125.29
+   ],
+   "size": [
+    110.0,
+    140.0
+   ],
+   "bbox_design": [
+    -145.0,
+    225.0,
+    -35.0,
+    365.0
+   ]
+  }
+ },
+ "skeleton": {
+  "H": 560,
+  "hh": 193.10344827586206,
+  "n_heads": 2.9,
+  "head_hw": 77.28,
+  "face_top": 65.65517241379311,
+  "face_bot": 193.10344827586206,
+  "face_hw": 60.278400000000005,
+  "chin": 193.10344827586206,
+  "neck": [
+   0.0,
+   204.6896551724138
+  ],
+  "shoulder": [
+   56.0,
+   227.8620689655172
+  ],
+  "chest": 280.0,
+  "waist": 351.44827586206895,
+  "hip": [
+   40.32,
+   369.6
+  ],
+  "knee": 455.504,
+  "ankle": 534.8,
+  "ground": 560,
+  "torso_cy": 298.7310344827586,
+  "torso_hw": 72.8,
+  "body_hw": 72.8,
+  "elbow": [
+   62.720000000000006,
+   332.13793103448273
+  ],
+  "wrist": [
+   67.2,
+   444.13793103448273
+  ]
+ },
+ "swaps": {
+  "eyes": {
+   "open": "eyes_open",
+   "blink": "eyes_blink"
+  },
+  "mouth": {
+   "closed": "mouth_closed",
+   "A": "mouth_A",
+   "O": "mouth_O",
+   "E": "mouth_E",
+   "frown": "mouth_frown"
+  }
+ },
+ "bones": [
+  {
+   "id": "pelvis",
+   "parent": null,
+   "part": null,
+   "offset": [
+    0.0,
+    0.0
+   ],
+   "depth": 1
+  },
+  {
+   "id": "tail",
+   "parent": "torso",
+   "part": "tail",
+   "offset": [
+    -58.24,
+    -19.31034482758622
+   ],
+   "depth": 0
+  },
+  {
+   "id": "thigh_back",
+   "parent": "pelvis",
+   "part": "thigh_back",
+   "offset": [
+    -36.288000000000004,
+    0.0
+   ],
+   "depth": 0
+  },
+  {
+   "id": "shin_back",
+   "parent": "thigh_back",
+   "part": "shin_back",
+   "offset": [
+    -4.8384,
+    85.904
+   ],
+   "depth": 0
+  },
+  {
+   "id": "ear_back",
+   "parent": "head",
+   "part": "ear_back",
+   "offset": [
+    -61.824000000000005,
+    -100.80000000000001
+   ],
+   "depth": 3
+  },
+  {
+   "id": "torso",
+   "parent": "pelvis",
+   "part": "torso",
+   "offset": [
+    0.0,
+    0.0
+   ],
+   "depth": 2
+  },
+  {
+   "id": "upperarm_back",
+   "parent": "torso",
+   "part": "upperarm_back",
+   "offset": [
+    -47.04,
+    -141.7379310344828
+   ],
+   "depth": 0
+  },
+  {
+   "id": "forearm_back",
+   "parent": "upperarm_back",
+   "part": "forearm_back",
+   "offset": [
+    -9.408000000000008,
+    104.27586206896552
+   ],
+   "depth": 0
+  },
+  {
+   "id": "neck",
+   "parent": "torso",
+   "part": null,
+   "offset": [
+    0.0,
+    -164.91034482758621
+   ],
+   "depth": 3
+  },
+  {
+   "id": "head",
+   "parent": "neck",
+   "part": "head",
+   "offset": [
+    0.0,
+    0.0
+   ],
+   "depth": 5
+  },
+  {
+   "id": "eyes",
+   "parent": "head",
+   "part": "eyes_open",
+   "offset": [
+    0.0,
+    0.0
+   ],
+   "depth": 7,
+   "swappable": "eyes"
+  },
+  {
+   "id": "brows",
+   "parent": "head",
+   "part": "brows",
+   "offset": [
+    0.0,
+    0.0
+   ],
+   "depth": 8
+  },
+  {
+   "id": "mouth",
+   "parent": "head",
+   "part": "mouth_closed",
+   "offset": [
+    0.0,
+    0.0
+   ],
+   "depth": 8,
+   "swappable": "mouth"
+  },
+  {
+   "id": "ear_front",
+   "parent": "head",
+   "part": "ear_front",
+   "offset": [
+    61.824000000000005,
+    -100.80000000000001
+   ],
+   "depth": 6
+  },
+  {
+   "id": "thigh_front",
+   "parent": "pelvis",
+   "part": "thigh_front",
+   "offset": [
+    36.288000000000004,
+    0.0
+   ],
+   "depth": 5
+  },
+  {
+   "id": "shin_front",
+   "parent": "thigh_front",
+   "part": "shin_front",
+   "offset": [
+    4.8384,
+    85.904
+   ],
+   "depth": 5
+  },
+  {
+   "id": "upperarm_front",
+   "parent": "torso",
+   "part": "upperarm_front",
+   "offset": [
+    47.04,
+    -141.7379310344828
+   ],
+   "depth": 6
+  },
+  {
+   "id": "forearm_front",
+   "parent": "upperarm_front",
+   "part": "forearm_front",
+   "offset": [
+    9.408000000000008,
+    104.27586206896552
+   ],
+   "depth": 6
+  }
+ ],
+ "H": 560,
+ "n_heads": 2.9,
+ "kind": "dog"
+}
